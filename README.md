@@ -13,7 +13,7 @@
 
 [06 Idea 2 | Genome-wide identification and characterization of Lectin receptor-like kinase (LecRLK) genes in mungbean (Vigna radiata L. Wilczek)](https://link.springer.com/article/10.1007%2Fs13353-021-00613-8)
 
-
+[06 Reference Brassica](https://link.springer.com/article/10.1007/s11032-020-01159-z#Sec2)
 
 
 Tools
