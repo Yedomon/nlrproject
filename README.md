@@ -24,3 +24,5 @@ Tools
 
 Analysis of interaction networks of the SbCys proteins
 > The functional interacting network models of SbCys proteins were integrated using the web STRING program (http://string-db.org/) based on an Arabidopsis association model; the confidence parameters were set at a 0.40 threshold, the number of interactors was set to five interactors. Arabidopsis AtCys proteins were mapped to Sorghum SbCys proteins based on their homologous relationship. The interaction network of SbCys proteins was drawn by Cytoscape_v3.6.0.
+
+[Plant NLR diversity: the known unknowns of pan-NLRomes](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koaa002/5985533)
