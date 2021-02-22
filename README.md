@@ -28,4 +28,4 @@ Analysis of interaction networks of the SbCys proteins
 [Plant NLR diversity: the known unknowns of pan-NLRomes](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koaa002/5985533)
 
 
-[Review| [Structural, Functional, and Genomic Diversity of Plant NLR Proteins: An Evolved Resource for Rational Engineering of Plant Immunity](https://www.annualreviews.org/doi/10.1146/annurev-phyto-080417-045817)]
+[Review | Structural, Functional, and Genomic Diversity of Plant NLR Proteins: An Evolved Resource for Rational Engineering of Plant Immunity](https://www.annualreviews.org/doi/10.1146/annurev-phyto-080417-045817)]
