@@ -20,7 +20,7 @@ Tools
 
 [How to represent chromosomal location of genes of interest using the online tool ](http://mg2c.iask.in/mg2c_v2.1/)
 
-
+- #### [RIDEOGRAM](https://cran.r-project.org/web/packages/RIdeogram/vignettes/RIdeogram.html)
 
 Analysis of interaction networks of the SbCys proteins
 > The functional interacting network models of SbCys proteins were integrated using the web STRING program (http://string-db.org/) based on an Arabidopsis association model; the confidence parameters were set at a 0.40 threshold, the number of interactors was set to five interactors. Arabidopsis AtCys proteins were mapped to Sorghum SbCys proteins based on their homologous relationship. The interaction network of SbCys proteins was drawn by Cytoscape_v3.6.0.
