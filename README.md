@@ -1,5 +1,12 @@
 # nlrproject
 
+
+
+02 May 2021 | [An accumulation of genetic variation and selection across the disease-related genes during apple domestication](https://link.springer.com/article/10.1007/s11295-021-01510-1)
+
+![img](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11295-021-01510-1/MediaObjects/11295_2021_1510_Fig2_HTML.png?as=webp)
+
+
 [01. paper mdpi plants](https://www.mdpi.com/2223-7747/9/10/1350/htm) | [author instruction](https://www.mdpi.com/journal/plants/instructions)
 
 [02. paper frontiers in plants sciences](https://www.frontiersin.org/articles/10.3389/fgene.2020.00484/full)
