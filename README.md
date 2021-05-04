@@ -1,6 +1,9 @@
 # nlrproject
 
+18 January 2021 | [Genome-wide identification and characterization of NBS-encoding genes in Raphanus sativus L. and their roles related to Fusarium oxysporum resistance](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-02803-8)
 
+
+![IMG](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12870-020-02803-8/MediaObjects/12870_2020_2803_Fig6_HTML.png?as=webp)
 
 02 May 2021 | [An accumulation of genetic variation and selection across the disease-related genes during apple domestication](https://link.springer.com/article/10.1007/s11295-021-01510-1)
 
